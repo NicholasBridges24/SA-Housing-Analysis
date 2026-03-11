@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime outputs
+outputs/
+*.duckdb
+*.log
+
+# Private/raw data
+data/raw/
+data/sales_with_sa2.parquet
+stg_sales_public.csv
+stg_sales_public.parquet
+
+# BI binaries
+*.pbix
+
+# Archives
+*.zip
