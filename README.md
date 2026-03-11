@@ -6,9 +6,11 @@ This is an Adelaide housing reporting project built in DuckDB and Power BI.
 
 ![Executive Overview](screenshots/01_overview.JPG)
 
-**2) SA2 explorer page** *(click image for short video)*
+**2) SA2 map explorer page**
 
-[![SA2 Explorer](screenshots/02_sa2_explorer.JPG)](https://github.com/user-attachments/assets/735912fe-7d5c-4578-92df-899ef92d603a)
+![SA2 Explorer](screenshots/02_sa2_explorer.JPG)
+
+[Short interaction video](https://github.com/user-attachments/assets/735912fe-7d5c-4578-92df-899ef92d603a)
 
 **3) Data quality audit page**
 
